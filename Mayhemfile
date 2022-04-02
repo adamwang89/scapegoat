@@ -1,0 +1,7 @@
+project: scapegoat
+target: fuzz_targets
+
+cmds:
+  - cmd: /sg_arena
+  - cmd: /sg_map
+  - cmd: /sg_set
